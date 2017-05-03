@@ -1,4 +1,9 @@
-# opensoft-2k17
+# OpenSoft 2017
+
+Annual inter-hall competetion in software development at Indian Institute of Technology Kharagpur
+
+# Testing
+
 Open `testrpc` in one terminal
 
 Open `ipfs daemon` in other
